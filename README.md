@@ -1,7 +1,8 @@
 <h1>Brickout</h1>
 
-<br><h2>Game made with JavaFX and FXGL in my free time<h2><br>
-<p>.jar file is located in out directory, so if you want to try this game, feel free to download.</p><br>
+<h3>Game made with JavaFX and FXGL in my free time</h3><br>
+<p>.jar file is located in out directory, so if you want to try this game, feel free to download.</p>
+<pre>Brickout/out/artifacts/Brickout_jar/Brickout.jar </pre>
 
   
 ![beta1](https://user-images.githubusercontent.com/65417684/111184640-71ce8e80-85b1-11eb-808e-b8ac05f5fea6.png)
