@@ -3,46 +3,46 @@
     <output-path>$PROJECT_DIR$/out/artifacts/Brickout_jar</output-path>
     <root id="archive" name="Brickout.jar">
       <element id="module-output" name="Brickout" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-cutscene/dev-SNAPSHOT/fxgl-cutscene-dev-20210310.131738-1455.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-scene/dev-SNAPSHOT/fxgl-scene-dev-20210310.131739-1436.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-ui/dev-SNAPSHOT/fxgl-ui-dev-20210310.131737-1681.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/15/javafx-controls-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/15/javafx-fxml-15.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/util/4.0.9/util-4.0.9.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/15/javafx-controls-15.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-ai/dev-SNAPSHOT/fxgl-ai-dev-20210310.131742-1179.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/15/javafx-media-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-localization/dev-SNAPSHOT/fxgl-localization-dev-20210310.131743-1330.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/15/javafx-swing-15.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/15/javafx-base-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-io/dev-SNAPSHOT/fxgl-io-dev-20210310.131740-1686.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-logging/dev-SNAPSHOT/fxgl-logging-dev-20210310.131747-801.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-cutscene/dev-SNAPSHOT/fxgl-cutscene-dev-20210310.131738-1455.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/15/javafx-graphics-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/15/javafx-base-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-effects/dev-SNAPSHOT/fxgl-effects-dev-20210310.131735-1674.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-trade/dev-SNAPSHOT/fxgl-trade-dev-20210310.131738-1573.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.4.30/kotlin-stdlib-1.4.30-modular.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl/dev-SNAPSHOT/fxgl-dev-20210310.131736-1703.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/lifecycle/4.0.9/lifecycle-4.0.9.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-media/dev-SNAPSHOT/fxgl-media-dev-20210310.131737-1705.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/15/javafx-media-15.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-achievement/dev-SNAPSHOT/fxgl-achievement-dev-20210310.131746-1606.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-effects/dev-SNAPSHOT/fxgl-effects-dev-20210310.131735-1674.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/15/javafx-graphics-15.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/15/javafx-fxml-15.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-input/dev-SNAPSHOT/fxgl-input-dev-20210310.131750-1746.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/util/4.0.9/util-4.0.9.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/15/javafx-media-15-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/storage/4.0.9/storage-4.0.9.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/15/javafx-graphics-15-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-logging/dev-SNAPSHOT/fxgl-logging-dev-20210310.131747-801.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-minigames/dev-SNAPSHOT/fxgl-minigames-dev-20210310.131738-1536.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-profiles/dev-SNAPSHOT/fxgl-profiles-dev-20210310.131739-1093.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-trade/dev-SNAPSHOT/fxgl-trade-dev-20210310.131738-1573.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/15/javafx-fxml-15-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-io/dev-SNAPSHOT/fxgl-io-dev-20210310.131740-1686.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-core/dev-SNAPSHOT/fxgl-core-dev-20210310.131735-1666.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-entity/dev-SNAPSHOT/fxgl-entity-dev-20210310.131741-1690.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-localization/dev-SNAPSHOT/fxgl-localization-dev-20210310.131743-1330.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.30/kotlin-stdlib-common-1.4.30.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/15/javafx-swing-15-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/15/javafx-base-15.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/audio/4.0.9/audio-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-ui/dev-SNAPSHOT/fxgl-ui-dev-20210310.131737-1681.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-ai/dev-SNAPSHOT/fxgl-ai-dev-20210310.131742-1179.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-achievement/dev-SNAPSHOT/fxgl-achievement-dev-20210310.131746-1606.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/15/javafx-controls-15.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-net/dev-SNAPSHOT/fxgl-net-dev-20210310.131736-1020.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/15/javafx-controls-15-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/15/javafx-swing-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-entity/dev-SNAPSHOT/fxgl-entity-dev-20210310.131741-1690.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-core/dev-SNAPSHOT/fxgl-core-dev-20210310.131735-1666.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-profiles/dev-SNAPSHOT/fxgl-profiles-dev-20210310.131739-1093.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/lifecycle/4.0.9/lifecycle-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/storage/4.0.9/storage-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/15/javafx-swing-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/15/javafx-graphics-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-minigames/dev-SNAPSHOT/fxgl-minigames-dev-20210310.131738-1536.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/audio/4.0.9/audio-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.30/kotlin-stdlib-common-1.4.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-input/dev-SNAPSHOT/fxgl-input-dev-20210310.131750-1746.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/15/javafx-fxml-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-scene/dev-SNAPSHOT/fxgl-scene-dev-20210310.131739-1436.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-media/dev-SNAPSHOT/fxgl-media-dev-20210310.131737-1705.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
