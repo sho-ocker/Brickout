@@ -1,0 +1,63 @@
+02:40:19.028 [main                     ] DEBUG Logger               - Configured Logger
+02:40:19.044 [main                     ] DEBUG GameApplication      - Logging settings
+Title: FXGL Brickout
+Version: 0.0
+Width: 1344
+Height: 704
+Fullscreen: false
+Intro: false
+Profiling: false
+Single step:false
+App Mode: DEVELOPER
+Menu Key: ESCAPE
+Stage Style: DECORATED
+Scene Factory: class game.brickout.BrickoutApp$1
+
+02:40:20.127 [JavaFX Application Thread] DEBUG FXGLApplication      - Initializing FXGL
+02:40:20.132 [JavaFX Application Thread] INFO  Engine               - FXGL-dev-SNAPSHOT (10.03.2021 13.16) on WINDOWS (J:15 FX:15)
+02:40:20.132 [JavaFX Application Thread] DEBUG Engine               - JRE Vendor Name: Oracle Corporation
+02:40:20.133 [JavaFX Application Thread] DEBUG Engine               - Running on OS: Windows 10 version 10.0
+02:40:20.134 [JavaFX Application Thread] DEBUG Engine               - Architecture: amd64
+02:40:20.134 [JavaFX Application Thread] INFO  Engine               - Source code and latest versions at: https://github.com/AlmasB/FXGL
+02:40:20.135 [JavaFX Application Thread] INFO  Engine               -              Join the FXGL chat at: https://gitter.im/AlmasB/FXGL
+02:40:20.704 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Creating a JavaFX scene
+02:40:20.845 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Target settings size: 1344.0 x 704.0
+02:40:20.847 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled scene size:    1344.0 x 704.0
+02:40:20.848 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled ratio: (1.0, 1.0)
+02:40:20.851 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Set initial scene to StartUpScene
+02:40:20.893 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Opening main window
+02:40:21.152 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Window border size: (16.0, 39.0)
+02:40:21.152 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled size: 1344.0 x 704.0
+02:40:21.153 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled ratio: (1.0, 1.0)
+02:40:21.153 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scene size: 1344.0 x 704.0
+02:40:21.154 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Stage size: 1360.0 x 743.0
+02:40:21.181 [FXGL Background Thread 1 ] DEBUG Engine               - Initializing environment variables
+02:40:21.295 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - User app class for loading assets: class game.brickout.BrickoutApp
+02:40:21.295 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Applying CSS: fxgl_dark.css
+02:40:21.297 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/Ivan/.m2/repository/com/github/almasb/fxgl/dev-SNAPSHOT/fxgl-dev-20210310.131736-1703.jar!/fxglassets/ui/css/fxgl_dark.css
+02:40:21.481 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Initializing application scenes
+02:40:21.571 [FXGL Background Thread 1 ] DEBUG GameWorld            - Game world initialized
+02:40:21.776 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Physics world initialized: appHeight=704, physics.ppm=50.0
+02:40:21.780 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Using strategy: BRUTE_FORCE
+02:40:21.787 [FXGL Background Thread 1 ] DEBUG GameScene            - Game scene initialized: 1344x704
+02:40:21.892 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: file:/E:/faks/sve_za_igru/Brickout/target/classes/assets/textures/background/universe.jpg
+02:40:22.359 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: file:/E:/faks/sve_za_igru/Brickout/target/classes/assets/textures/particles/trace_horizontal.png
+02:40:22.569 [FXGL Background Thread 1 ] DEBUG FXGL.DefaultMenu     - createMenuBodyGameMenu()
+02:40:22.643 [FXGL Background Thread 1 ] DEBUG FXGL.DefaultMenu     - createOptionsMenu()
+02:40:22.662 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/Ivan/.m2/repository/com/github/almasb/fxgl/dev-SNAPSHOT/fxgl-dev-20210310.131736-1703.jar!/fxglassets/textures/particles/smoke.png
+02:40:22.848 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Application scenes initialized
+02:40:22.888 [FXGL Background Thread 1 ] DEBUG SystemBundleService  - Loading FXGL system data
+02:40:22.900 [FXGL Background Thread 1 ] DEBUG FileSystemAccess     - Reading from: E:\faks\sve_za_igru\Brickout\system\fxgl.bundle
+02:40:22.918 [FXGL Background Thread 1 ] DEBUG SystemBundleService  - Bundle FXGL: {}
+02:40:22.919 [FXGL Background Thread 1 ] DEBUG UpdaterService       - Checking for updates
+02:40:23.017 [JavaFX Application Thread] DEBUG FXGLApplication      - Exiting FXGL
+02:40:23.017 [JavaFX Application Thread] DEBUG LoopRunner           - Stopping loop
+02:40:23.018 [JavaFX Application Thread] DEBUG LoopRunner           - Initializing JavaFX AnimationTimerLoop
+02:40:23.037 [FXGL Background Thread 1 ] DEBUG FXGLApplication      - Loading default localization
+02:40:23.039 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/Ivan/.m2/repository/com/github/almasb/fxgl/dev-SNAPSHOT/fxgl-dev-20210310.131736-1703.jar!/fxglassets/languages/english.lang
+02:40:23.022 [JavaFX Application Thread] DEBUG SystemBundleService  - Saving FXGL system data
+02:40:23.073 [JavaFX Application Thread] DEBUG FileSystemAccess     - Writing to: E:\faks\sve_za_igru\Brickout\system\fxgl.bundle
+02:40:23.081 [JavaFX Application Thread] DEBUG Async                - Shutting down background threads
+02:40:23.084 [FXGL Background Thread 1 ] INFO  FXGLApplication      - FXGL initialization took: 1.903 sec
+02:40:23.084 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Closing main window
+02:40:23.313 [JavaFX Application Thread] DEBUG Logger               - Closing Logger
